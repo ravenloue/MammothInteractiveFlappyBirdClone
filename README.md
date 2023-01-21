@@ -5,14 +5,13 @@ Very simple Flappy bird clone from a tutorial by Mammoth Interactive
 
 - [Overview](#overview)
   - [The Idea](#the-idea)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,7 +33,9 @@ Planned improvements include:
 
 ### Screenshot
 
-Not available at this time
+![FlappyBirdClone](https://github.com/ravenloue/MammothInteractiveFlappyBirdClone/blob/main/FlappyBirdScreenshot.png)
+[Link to active deployment](https://ravenloue.github.io/MammothInteractiveFlappyBirdClone/MammothInteractiveFlappyBirdClone.html)
+
 
 ## My process
 
@@ -53,6 +54,7 @@ Many thanks to Mammoth Interactive for their tutorial for this process. This was
 - January 20, 2023
   - I finished the tutorial.  
   - Added comments to my code to make it easy to come back
+  - Added screenshot, and active link to deployment
 
 ### Useful resources
 
