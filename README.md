@@ -34,7 +34,7 @@ Planned improvements include:
 ### Screenshot
 
 ![FlappyBirdClone](https://github.com/ravenloue/MammothInteractiveFlappyBirdClone/blob/main/FlappyBirdScreenshot.png)
-[Link to active deployment](https://ravenloue.github.io/MammothInteractiveFlappyBirdClone/MammothInteractiveFlappyBirdClone.html)
+[Link to active deployment](https://ravenloue.github.io/MammothInteractiveFlappyBirdClone/index.html)
 
 
 ## My process
@@ -55,6 +55,12 @@ Many thanks to Mammoth Interactive for their tutorial for this process. This was
   - I finished the tutorial.  
   - Added comments to my code to make it easy to come back
   - Added screenshot, and active link to deployment
+- February 13, 2023
+  - Created plans for future updates
+- April 3, 2023
+  - Split apart JS from HTML
+  - Changed file name to index for direct link to project
+  - added Title, meta tags for mobile support and Bootstrap5 link code
 
 ### Useful resources
 
