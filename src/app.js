@@ -8,7 +8,7 @@ var keyState = 0; // Stores boolean value for player movement
 
 // Creates a player using the image and draws it on the canvas
 var player = new Image();
-player.src = "https://i.imgur.com/fkPTydT.png";
+player.src = 'src/playerImg.png';
 player.onload = function() {
   ctx.drawImage(player, x, y);
 };
@@ -94,7 +94,11 @@ setInterval(function(){
     ctx.fillStyle="red";
     obstacle.x -=5;
 
-    if(obstacle.x < -50) obstacle.x = 1000;
+    if(obstacle.x < -50) {
+      obstacle.x = 1000;
+      obstacle.y = chooseRandNum(0, 500);
+      obstacle.h = chooseRandNum(50, 500);
+    }
     ctx.fillRect(obstacle.x, obstacle.y, obstacle.w, obstacle.h);
 
     if (handleCollision(obstacle)) location.reload();
